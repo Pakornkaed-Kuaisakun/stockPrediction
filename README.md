@@ -1,6 +1,6 @@
 # stockPrediction
 
-Program for stock forecast, it may be have error from prediction
+Program for stock forecast, it may be have error from prediction by Pakornkaed Kuaisakun
  
 ## Installation
 
@@ -30,6 +30,3 @@ streamlit run stockPrediction.py
 
 ## License
 [MIT](/LICENSE)
-
-## Project Status
-This project is may be slow down.
